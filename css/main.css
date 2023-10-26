@@ -105,6 +105,7 @@ body {
 }
 
 footer {
+    position: absolute;
     bottom: 0;
     padding: 20px 0px;
     margin: 0px;
